@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These scripts are used to add types to the [ACT](https://github.com/mnemonic-no/act-platform) data model (object types and fact types).
+This repository contains utility scripts for the [ACT Platform](https://github.com/mnemonic-no/act-platform).
 
 ## Installation
 1. This project requires that you have a running installation of the [act-platform](https://github.com/mnemonic-no/act-platform).
