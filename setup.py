@@ -11,7 +11,7 @@ with open(path.join(this_directory, "README.md"), "rb") as f:
 
 setup(
     name="act-utils",
-    version="2.0.0",
+    version="2.1.0",
     author="mnemonic AS",
     zip_safe=True,
     author_email="opensource@mnemonic.no",
@@ -33,7 +33,7 @@ setup(
     namespace_packages=["act"],
     url="https://github.com/mnemonic-no/act-utils",
     install_requires=[
-        "act-api>=2.0.0,<3.0.0",
+        "act-api>=2.1.0,<2.2.0",
         "requests",
         "graphviz",
         "atlassian-python-api",
